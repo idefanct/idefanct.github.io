@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://idefanct.github.io/sitemap.html.gz
+Sitemap: https://idefanct.github.io/app/sitemap.html.gz
+Sitemap: https://idefanct.github.io/assets/sitemap.html.gz
+Sitemap: https://idefanct.github.io/css/sitemap.html.gz
+Sitemap: https://idefanct.github.io/includes/sitemap.html.gz
+Sitemap: https://idefanct.github.io/item/sitemap.html.gz
+Sitemap: https://idefanct.github.io/src/sitemap.html.gz
